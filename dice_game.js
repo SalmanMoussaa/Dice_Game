@@ -25,9 +25,8 @@ window.onload=function(){
 
 
     }
-    function run(){
-
-    }
+    var h1 = document.getElementById("refresh");
+    h1.addEventListener("click",randoms);
     randoms();
 
 
