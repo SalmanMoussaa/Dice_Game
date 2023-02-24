@@ -9,11 +9,12 @@ window.onload=function(){
         random_images[5]="Assets\dice-6.png"
         var random_1 = Math.floor(Math.random()*random_images.length);  
         var random2 = Math.floor(Math.random()*random_images.length);  
-        
+
 
 
 
     }
+
 
 
 }
